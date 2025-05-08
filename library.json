@@ -1,0 +1,16 @@
+[
+    {
+        "title": "learn python",
+        "author": "Alice",
+        "year": 2025,
+        "genre": "coding",
+        "read_status": true
+    },
+    {
+        "title": "learn typescript",
+        "author": "Alice",
+        "year": 2023,
+        "genre": "coding",
+        "read_status": false
+    }
+]
