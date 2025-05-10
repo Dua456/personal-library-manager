@@ -2,15 +2,15 @@
     {
         "title": "learn python",
         "author": "Alice",
-        "year": 2025,
+        "year": 2013,
         "genre": "coding",
         "read_status": true
     },
     {
         "title": "learn typescript",
         "author": "Alice",
-        "year": 2023,
+        "year": 2018,
         "genre": "coding",
-        "read_status": false
+        "read_status": true
     }
 ]
